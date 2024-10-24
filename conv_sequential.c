@@ -45,7 +45,7 @@ int main(){
     // toc = omp_get_wtime() - tic;
 
     for(int i = 0; i < NANS; i++){
-        printf("%d \n", ANS[i]);
+        printf("%d\n", ANS[i]);
     }
 
     // printf("Time Taken: %g\n", toc);
